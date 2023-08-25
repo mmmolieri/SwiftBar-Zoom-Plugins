@@ -35,6 +35,6 @@ else
 	set returnValue to ""
 end if
 
-return returnValue & " off
+return returnValue & " Zoom off
 ---
 zoomMuteState"
